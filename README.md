@@ -8,7 +8,7 @@ This assignment demonstrates the use of Python's built-in **list** data structur
 ##  Tasks Performed
 
 1. **Create an Empty List**
-   - Initializes an empty list named `my_list`.
+   - Initializes an empty list named `my_list`
 
 2. **Append Elements**
    - Adds the integers `10`, `20`, `30`, and `40` using `.append()`.
